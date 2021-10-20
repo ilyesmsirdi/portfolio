@@ -1,0 +1,17 @@
+  <nav>
+      <ul>   
+    <li class="menu-accueil"><a href="" class="bouton">Accueil</a>
+
+    </li>
+    <li class=" menu-cv"><a href="#" class="bouton">CV</a>
+    	<ul>
+    		<li><a href="#"></a></li>
+
+    	</ul>
+
+    </li>
+    <li class="menu-project"><a href="" class="bouton">Project</a></li>
+    <li class="menu-veilles"><a href="" class="bouton">Veilles</a></li>
+    <li class="menu-contact"><a href="" class="bouton">Contact</a></li>
+</ul>
+</nav>

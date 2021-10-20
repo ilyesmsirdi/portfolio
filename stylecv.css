@@ -1,0 +1,122 @@
+.PAGE
+{
+width: 780px;
+height: 1100px;
+border-radius: 10px;
+box-shadow: 2px 4px 3px black;
+margin: auto;
+font-size: 16px;
+border: solid #3388CC ;
+padding: 2px;
+}
+.entete
+{
+border-radius: 2px;
+border: 5px solid #3388CC;
+width: 680px;
+height: 150px;
+padding: 20px;
+margin: auto;
+}
+.info
+{
+border: solid #3388CC;
+float: left;
+
+
+
+}
+.photo
+{
+float: right;
+
+
+
+}
+.section1
+{
+border-radius: 2px;
+border: 5px solid #3388CC;
+padding: 20px;
+width: 680px;
+height: 150px;
+margin: auto;
+
+}
+.for
+{
+font-size: 16px;
+
+}
+.sec1
+{
+float: right;
+border: 2px solid black;
+width: 400px;
+height: 70px;
+
+}
+.sec2
+{
+float: left;
+border: 2px solid black;
+width: 250px;
+}
+
+.EXP
+{
+font-size: 16px;
+
+
+
+}
+.annéeEXP
+{
+float: left;
+border: 2px solid black;
+width: 250px;
+
+}
+.EXPER
+{
+float: right;
+border: 2px solid black;
+width: 400px;
+
+
+}
+
+
+
+.LANGUES
+{
+float: left;
+border: 2px solid black;
+width: 250px;
+
+
+}
+.niveau
+{
+float: right;
+border: 2px solid black;
+width: 400px;
+
+
+}
+.année
+{
+float: left;
+border: 2px solid black;
+width: 250px;
+
+
+}
+.autre
+{
+float: right;
+border: 2px solid black;
+width: 400px;
+
+	
+}
